@@ -1,0 +1,78 @@
+body {
+  background-color: #F6F6F6;
+  font-family: comic sans-serif;
+  color: #393232;
+  font-size: ;
+  line-height: ;
+}
+
+.intro {
+  width: 500px;
+  margin: o auto;
+  display: inline;
+  padding: 12px;
+}
+
+.card {
+  background: #DEDEDE;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+.avatar_image {
+  border-radius: 4px;
+  box-shadow: 1px, 1px, 3px rgba(0, 0, 0.1)
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.button_see {
+  text-decoration: none;
+  font-size: 21px
+}
+
+h1 {
+  color: blue;
+  font-family: comic sans-serif;
+  font-size: 40px;
+  line-height: 22px;
+}
+
+h2 {
+font-size: 25px;
+color: #4D3664;
+}
+
+.p_introduction {
+font-size: 20px;
+color: #4D4545;
+justify-content: center;
+}
+
+.icons_social_media {
+padding: 0px;
+margin-right: 20px
+}
+
+.fa {
+  margin-right: 20px;
+}
+
+.resize {
+  width: 216px;
+  height: 216px;
+  border-radius: 4px;
+  box-shadow: 2px, 2px, 3px rgba(0, 0, 0.1)
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.city_title {
+  font-size: 16px;
+  font-weight: bold;
+
+}
+
+
+table {
+  font-size: 15px;
+  display: inline-block;
+}
